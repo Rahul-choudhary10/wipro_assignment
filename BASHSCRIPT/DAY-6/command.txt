@@ -1,0 +1,36 @@
+top = it is used for open the task manager
+free -m = it is used to check how much memory is free
+man pwd = manual print working directory
+useradd -m newuser = it is created new user 
+mkdir rahul = it is used for created a folder
+ls = it shows all the files within the specific folder
+rm -rf rahul = it is used for remove the folder
+cd rahul/ = it is used for go inside the directory
+touch textfile.txt = it is used for created a file 
+vi textfile.txt = it is used for open the editor for specific file, you can type what you want to write in the file
+press ESC :q! = it is used for quit the file without any changes in file
+press ESC :q = it is used for quit the file
+press ESC :wq = it is used for quit the file and changes will saved
+cp textfile.txt temp.txt = it is used for copy the textfile into temp.txt
+mv temp.txt ../ = it is used for move the temp file into parent folder
+rm temp.txt = it is used for remove the file
+vi .hiddenfile.txt = to create a hidden file
+ls -altrh = it is used for list the hidden file
+head temp.txt = is gives top values within the file upto 10 values start from start of the file
+tail temp.txt = it gives bottom values of the file upto 10 values start from end of the file 
+head -3 temp.txt = it gives till 3rd values
+head -5 temp.txt = it gives till 4th values of the file
+cat temp.txt = it gives all the values which is available in the file
+clear = clear command is used for clear the console
+ssh ipaddresss@hostname = [secured shell] it is used for connect one server to another server
+uname = it gives username of the machine
+unmae -a = it gives more info about the machine
+echo "Hello world" = print the string
+echo "Let us try" > test1.txt = it will be added in the test1 file
+
+
+
+
+
+
+
